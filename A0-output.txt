@@ -1,0 +1,26 @@
+cd Downloads
+output-rbvm@RBVM:~Downloads$
+
+cd
+output-rbvm@RBVM:
+
+~/Downloads$ ls
+output-atom-amd64.deb
+
+man man
+output-manual on the manual command
+
+mkdir fruits
+output-create fruits folder
+
+rmdir fruits
+output-delete fruits folder
+
+touch test.c
+output-creates c file named test
+
+gedit test.c
+output-opens and allows editing for the c file named test
+
+find . -name '*.c'
+output-./helloworld.c
